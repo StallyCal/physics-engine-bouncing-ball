@@ -1,2 +1,2 @@
-# physics-engine-bouncing-ball
-made from vcs and used physics engine
+# staticSquare
+A static square made using Matter.js physics engine
